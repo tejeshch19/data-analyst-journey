@@ -8,7 +8,7 @@ if( int(number) >=200 and int(number)<=900):
     else:
         print("Valid")
 else:
-    print("please enter number between 200 to  900")
+    print("please enter number between 200 to 900")
 
 # problem2:sum and product checking
 # given a,b if both sum and product of given numbers are less than three digits
